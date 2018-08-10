@@ -26,7 +26,7 @@
 #include "application.h"
 
 #define SSD1351WIDTH 128
-#define SSD1351HEIGHT 128  // SET THIS TO 96 FOR 1.27"!
+#define SSD1351HEIGHT 96  // SET THIS TO 96 FOR 1.27"!
 
 //#define swap(a, b) { uint16_t t = a; a = b; b = t; }
 
